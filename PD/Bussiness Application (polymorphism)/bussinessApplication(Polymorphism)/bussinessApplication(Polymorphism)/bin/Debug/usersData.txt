@@ -1,0 +1,4 @@
+mughal,admin,12345678,0,0,,,,False,False,False,False
+malahat,student,12345678,11,22,asdf,,Poor,aaa,True,True,True
+bilal,student,12345678,0,0,,,,,False,False,False
+hassan,Student,12345678,0,0,,,,,False,False,False
